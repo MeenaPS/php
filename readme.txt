@@ -1,1 +1,1 @@
-api test file
+Api url: http://localhost/web_api/
